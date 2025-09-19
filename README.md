@@ -37,5 +37,5 @@ Na branch com o seu nome
 
 8° Passo: git commit -m "Frase que explica o que você fez"
 
-9° Passo: git push
+9° Passo: git push origin seu nome
 
